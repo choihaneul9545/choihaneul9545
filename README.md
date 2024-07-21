@@ -3,7 +3,7 @@
 누구와도 소통 가능한 개발자가 되고자 하는 마음을 기반으로 지식과 기술을 빠르게 습득하려고 합니다.<br />
 함께하는 프로젝트에서 소통하는 즐거움을 느끼며 원활하게 나아갈 때에 성취감을 느낍니다.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choihaneul9545&show_icons=true&hide=stars&theme=flag-india)
+
 
 <!--
 **choihaneul9545/choihaneul9545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
